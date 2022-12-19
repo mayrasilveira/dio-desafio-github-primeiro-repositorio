@@ -1,0 +1,15 @@
+GUI (Graphic User Interface) X CLI (Command Line Interface)
+
+Comandos básicos:
+
+- Listar pastas que estão contidos na pasta que estamos: dir ou ls (linux)
+- Navegar entre as pastas: cd/
+- Ir em uma pasta específica: cd + digita o nome da pasta. Ex: cd windows
+- Retroceder um nível na navegação: cd ..
+- Limpar a tela: cls
+- Autocompletar: tab
+- Criar uma pasta: mkdir + nome da pasta
+- Para criar um arquivo: acessar a pasta que você deseja + echo + conteúdo que você quer colocar dentro do arquivo + > (esse símbolo é um redirecionador de fluxo) + nomedoarquivo.txt
+- Comando para deletar arquivos dentro de um repositório: del + nome da pasta
+- Alternar para comandos já utilizados: setinha pra cima
+- Deletar repositório completo: rmdir + nome da pasta + /s /q
